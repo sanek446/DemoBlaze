@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{BE956AF8-985C-4EBC-8B4B-0EC7615C0CFE}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{A32EF503-491F-486E-81CC-5E9BC550F590}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{882EDF8C-876E-4B2F-89DA-88607E9ACE1E}">
+								<Image FileName="1136939372" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageStore" Key="{90C3FC4F-C0C6-4283-8624-46B5A84290B8}">
+								<Image FileName="-1855085502" Left="0" Top="151" Right="1920" Bottom="1020" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.demoblaze.com/index.html*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkItemc" Key="{8905FB9D-1878-401E-8AB2-CB869E9F76C8}">
+										<Image FileName="1094771073" Left="256" Top="848" Right="575" Bottom="918" />
+										<TypeInfo Item0="{B2D5F825-3570-4BA7-94F3-E2CBB47646CD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Laptops&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeMacbookAir" Key="{F4D779D4-7F53-40EA-80CF-8448E0288892}">
+										<Image FileName="-749499500" Left="1351" Top="907" Right="1618" Bottom="940" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h4[.=&apos;MacBook air&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkMacbookAir" Key="{D9420A54-3120-4E9E-8F99-F8A9EC2A2CF9}">
+										<Image FileName="-749499500" Left="1351" Top="908" Right="1517" Bottom="938" />
+										<TypeInfo Item0="{B2D5F825-3570-4BA7-94F3-E2CBB47646CD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;MacBook air&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageStore2" Key="{5CD383B3-0E8E-4098-9B57-2F47AC528E93}">
+								<Image FileName="-1855085502" Left="0" Top="151" Right="1920" Bottom="1020" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.demoblaze.com/prod.html*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnode700" Key="{762CF77F-11B3-4BCB-9018-7BC0D5CB96D5}">
+										<Image FileName="-1336012975" Left="795" Top="402" Right="1863" Bottom="435" />
+										<TypeInfo Item0="{B2D5F825-3570-4BA7-94F3-E2CBB47646CD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h3[text()=&apos;$700&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode" Key="{891A34A6-19D8-420A-B3ED-99298A6EB618}">
+										<Image FileName="-1336012975" Left="795" Top="539" Right="1863" Bottom="589" />
+										<TypeInfo Item0="{B2D5F825-3570-4BA7-94F3-E2CBB47646CD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p[contains(text(), &apos;Configurable to 2.2GHz dual-core Intel Core i7 (Turbo&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAddToCart" Key="{616042ED-3607-4E45-89DF-F54209C815C0}">
+										<Image FileName="956242513" Left="795" Top="668" Right="980" Bottom="731" />
+										<TypeInfo Item0="{B2D5F825-3570-4BA7-94F3-E2CBB47646CD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Add to cart&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{A32EF503-491F-486E-81CC-5E9BC550F590}">
+			<Child Name="BrowserWindow" Owner="{882EDF8C-876E-4B2F-89DA-88607E9ACE1E}" />
+			<Child Name="pageStore" Owner="{90C3FC4F-C0C6-4283-8624-46B5A84290B8}">
+				<Child Name="linkItemc" Owner="{8905FB9D-1878-401E-8AB2-CB869E9F76C8}" />
+				<Child Name="textnodeMacbookAir" Owner="{F4D779D4-7F53-40EA-80CF-8448E0288892}">
+					<Child Name="linkMacbookAir" Owner="{D9420A54-3120-4E9E-8F99-F8A9EC2A2CF9}" />
+				</Child>
+			</Child>
+			<Child Name="pageStore2" Owner="{5CD383B3-0E8E-4098-9B57-2F47AC528E93}">
+				<Child Name="textnode700" Owner="{762CF77F-11B3-4BCB-9018-7BC0D5CB96D5}" />
+				<Child Name="textnode" Owner="{891A34A6-19D8-420A-B3ED-99298A6EB618}" />
+				<Child Name="linkAddToCart" Owner="{616042ED-3607-4E45-89DF-F54209C815C0}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

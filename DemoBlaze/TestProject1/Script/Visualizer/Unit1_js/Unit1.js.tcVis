@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{CF8C02FB-4BBF-4725-A783-5DA0A64C9442}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45713.2208680556" objectName="Aliases.browser.pageStore.linkItemc" objectLeft="256" objectTop="848" objectRight="575" objectBottom="918" clickPointX="316" clickPointY="881" imageFileName="tcvi105408000035404.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="45713.2208912037" objectName="Aliases.browser.pageStore.textnodeMacbookAir.linkMacbookAir" objectLeft="1351" objectTop="908" objectRight="1517" objectBottom="938" clickPointX="1432" clickPointY="918" imageFileName="tcvi105408160935405.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
